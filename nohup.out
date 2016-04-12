@@ -1,0 +1,207 @@
+
+> cluster@0.0.0 start /opt/bitnami/apache2/htdocs/cluster
+> node ./bin/www
+
+ID 30217
+[0mGET / [36m304 [0m16.099 ms - -[0m
+[0mGET /javascripts/angularApp.js [36m304 [0m3.550 ms - -[0m
+Service ID 30217
+[0mGET /pid [32m200 [0m2.406 ms - 31[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.506 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.356 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.328 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.521 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.351 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.512 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.408 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m1.417 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m1.412 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m1.181 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.611 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m1.147 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.476 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.328 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.362 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.342 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m1.002 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.343 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.448 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.334 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.326 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m2.496 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m1.075 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.857 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m1.045 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.350 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.660 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.333 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m2.609 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.749 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.489 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m2.559 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.576 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m1.102 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.531 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.463 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.864 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.378 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.428 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.320 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.960 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.744 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.372 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.331 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.352 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.418 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m1.526 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.529 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.533 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.536 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.544 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m3.724 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.549 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.556 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.530 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.527 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.546 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.553 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.550 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m2.032 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.542 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.543 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m1.218 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m3.616 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m1.067 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.318 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.379 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.520 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.367 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.358 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.342 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.347 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.359 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m1.077 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.334 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m1.442 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.362 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.688 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.460 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.344 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.361 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.342 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.358 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.555 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.595 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.523 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.594 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.582 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.493 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.779 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.363 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.368 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.555 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.403 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.490 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.817 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.571 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.533 ms - -[0m
+Service ID 30217
+[0mGET /pid [36m304 [0m0.588 ms - -[0m
